@@ -1,4 +1,4 @@
-# Method Arguments Lab
+# lib/introduction.rb
 
 ## Objectives
 
