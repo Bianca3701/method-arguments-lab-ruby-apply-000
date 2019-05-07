@@ -1,6 +1,7 @@
 # lib/introduction.rb
 
-## Objectives
+def introduction
+end
 
 1. Define a method that takes in an argument and uses that argument in the
    method body.
