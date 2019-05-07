@@ -3,8 +3,9 @@
 def introduction
 end
 
-1. Define a method that takes in an argument and uses that argument in the
-   method body.
+ArgumentError:
+  wrong number of
+arguments (1 for 0)
 
 2. Define a method that takes in two arguments and uses both arguments in the
    method body.
